@@ -1,2 +1,3 @@
-# benchmarksgame.github.io
-The website for benchmarksgame.com
+#### [benchmarksgame.com](https://benchmarksgame.com)
+
+The platform for benchmarking programming languages performance
